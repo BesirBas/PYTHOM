@@ -1,0 +1,11 @@
+buyil = 2023
+isim = input("Isminizi giriniz: ")
+yil = int(input("Dogum yilinizi giriniz: "))
+yas = buyil - yil 
+print("sayın: ", isim, "Yasiniz: ", yas)
+
+buyil = 2023
+isim = input("Isminizi giriniz: ")
+yil = int(input("Dogum yilinizi giriniz: "))
+yas = buyil - yil 
+print("sayın: ", isim, "Yasiniz: ", yas)
